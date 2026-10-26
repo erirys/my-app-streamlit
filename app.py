@@ -1,3 +1,4 @@
+app_code = """
 import streamlit as st
 
 # Título de la aplicación
